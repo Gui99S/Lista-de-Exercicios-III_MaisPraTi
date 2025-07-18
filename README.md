@@ -3,6 +3,7 @@
 Projeto simples utilizando apenas HTML, CSS e JavaScript.
 
 
+
 📜 Lista de Exercícios 3 - Desenvolvimento Web Básico:
 
 1 - Crie um arquivo chamado index.html e monte nele a seguinte estrutura usando sempre tags semânticas:
@@ -37,6 +38,7 @@ Projeto simples utilizando apenas HTML, CSS e JavaScript.
 7 - Menu Hamburger - implemente um menu “hamburger” que apareça apenas em telas com largura ≤ 600 px, oculte a navegação padrão e abra/feche o menu ao ser clicado.
 
 
+
 📝 RELATÓRIO + OTIMIZAÇÕES:
 
 1 - h1 e p introdutório do Header foram transferidos para uma section 'hero' para harmonizar o design geral do projeto. Abaixo da hero section, uma tag main composta por duas sections classificadas como 'missão' e 'visão', e por último, o footer com copyright. 
@@ -64,6 +66,7 @@ Projeto simples utilizando apenas HTML, CSS e JavaScript.
 
 
 9 - Responsividade 100% funcional com media-queries.
+
 
 
 🖥️ Para visualizar a página:
