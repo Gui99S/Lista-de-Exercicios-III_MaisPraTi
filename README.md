@@ -65,7 +65,7 @@ Projeto simples utilizando apenas HTML, CSS e JavaScript.
 8 - Botão de back-to-top fixo e centralizado acima do footer, usando JavaScript para jogar o usuário de volta ao topo da página suavemente.
 
 
-9 - Responsividade 100% funcional com media-queries.
+9 - Responsividade 100% funcional com media queries.
 
 
 
