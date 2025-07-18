@@ -1,10 +1,10 @@
-✨ Exercício 3 do +PraTi:
+✨ <b>Exercício 3 do +PraTi:</b>
 
 Projeto simples utilizando apenas HTML, CSS e JavaScript.
 
 
 
-📜 Lista de Exercícios 3 - Desenvolvimento Web Básico:
+📜 <b>Lista de Exercícios 3 - Desenvolvimento Web Básico:</b>
 
 1 - Crie um arquivo chamado index.html e monte nele a seguinte estrutura usando sempre tags semânticas:
 - Um header contendo um h1 (título) e um p (parágrafo) introdutório.
@@ -39,7 +39,7 @@ Projeto simples utilizando apenas HTML, CSS e JavaScript.
 
 
 
-📝 RELATÓRIO + OTIMIZAÇÕES:
+📝 <b>RELATÓRIO + OTIMIZAÇÕES:</b>
 
 1 - h1 e p introdutório do Header foram transferidos para uma section 'hero' para harmonizar o design geral do projeto. Abaixo da hero section, uma tag main composta por duas sections classificadas como 'missão' e 'visão', e por último, o footer com copyright. 
 
@@ -69,7 +69,7 @@ Projeto simples utilizando apenas HTML, CSS e JavaScript.
 
 
 
-🖥️ Para visualizar a página:
+🖥️ <b>Para visualizar a página:</b>
 
 Clique no link abaixo: 
 
